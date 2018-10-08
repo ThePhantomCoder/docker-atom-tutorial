@@ -223,10 +223,10 @@ The magic starts with a simple shortcut: Control+Enter on the Mac. It'll send th
 
 ![alt text](https://github.com/dformoso/docker-atom-tutorial/blob/master/images/atom.png)
 
-Let's try running some Docker commands from out text editor by pressing Control+Enter. I'll leave you with one more screenshot, before moving to simply posting the commands here. You can do the copy/pasting.
+>Let's try running some Docker commands from out text editor by pressing Control+Enter. I'll leave you >with one more screenshot, before moving to simply posting the commands here. You can do the copy/pasting.
 
 ![alt text](https://github.com/dformoso/docker-atom-tutorial/blob/master/images/dockercom.png)
 
 
 ## About Me
-https://www.linkedin.com/in/danielmartinezformoso/
+>https://www.linkedin.com/in/danielmartinezformoso/
